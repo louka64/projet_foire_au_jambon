@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CorrigeFoireJambon</string>
+    <string name="titre_list_exp">Liste des exposants</string>
+    <string name="nom_bouton_actu">Actualiser</string>
+    <string name="titre_nouvel_exp">Nouvel exposant</string>
+    <string name="nom_bouton_enreg">Enregistrer</string>
+    <string name="titre_recherche_foire">Recherche d\'un exposant, d\'une spécialité, ou sur une zone</string>
+    <string name="nom_exposant">Nom</string>
+    <string name="specialite_exposant">Spécialités</string>
+    <string name="zone_exposant">Zone</string>
+    <string name="nom_bouton_rechercher">Rechercher</string>
+    <string name="titre_resultat_recherche">Résultat de la recherche</string>
+</resources>
